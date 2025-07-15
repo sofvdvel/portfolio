@@ -13,6 +13,13 @@
 **Internship Trainee @ Laboratory of Experimental Cancer Research (LECR) (_2023_)**
 - Conducted analysis and visualization of total and small RNA from bacterial extracellular vesicles (BEVs).
 
+
+## Contact
+LinkedIn: [Sofie Van de Velde](https://www.linkedin.com/in/sofievandevelde/)  
+Email: vandevelde.sofie@telenet.be
+ORCID: 0009-0002-3102-418X
+
+
 ## Skills & Tools
 
 | Category              | Skills & Tools                                                                 |
@@ -33,8 +40,6 @@ Creator of Shiny application to explore interactivley the code and results of DN
 ### BismarkPipeline
 Maintainer of repository: Methylation (Bisulfite-Sequencing) analysis pipeline of cfRRBS samples using Bismark. <br>
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-
 
 
 ## Publications
