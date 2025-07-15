@@ -45,6 +45,6 @@ Maintainer of repository: Methylation (Bisulfite-Sequencing) analysis pipeline o
 
 
 ## Contact
-LinkedIn: [Sofie Van de Velde](https://www.linkedin.com/in/sofievandevelde/)  <br>
+LinkedIn: [@sofievandevelde](https://www.linkedin.com/in/sofievandevelde/)  <br>
 Email: vandevelde.sofie@telenet.be <br>
 ORCID: 0009-0002-3102-418X 
