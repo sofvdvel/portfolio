@@ -1,7 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
-# Welcome to My Portfolio
-
-I'm Sofie Van de Velde, a bioinformatician working at VIB - UGent.
+# Sofie Van de Velde
